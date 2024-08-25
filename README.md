@@ -13,5 +13,4 @@ Android, Kotlin, Jetpack Compose, XML, SQLite
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eurico-neto/)
-[![Curriculo](https://img.shields.io/badge/curriculo-1DA1F2?style=for-the-badge)](https://docs.google.com/document/d/1lSVnarizx0CjTrZASACGeACoxY2xkG6EKoqXtsbRfUE/edit?usp=sharing)
 
