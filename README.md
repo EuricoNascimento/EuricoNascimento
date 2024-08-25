@@ -8,7 +8,7 @@ Eu sou uma pessoa desenvolvedor android nativo, comecei auxiliando um sênior co
 
 
 ## 🛠 Habilidades
-Android, Kotlin, Jetpack Compose, XML, SQLite
+Android, Kotlin, Jetpack Compose, XML, SQLite, Navigation, Fragment
 
 
 ## 🔗 Links
